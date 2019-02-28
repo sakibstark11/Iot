@@ -1,0 +1,13 @@
+{
+    "sensor_data": [
+        
+        {
+            "sensor_id": "302CEM/lion/light1",
+            "sensor_state": "off"
+        },
+        {
+            "sensor_id": "302CEM/lion/light2",
+            "sensor_state": "off"
+        }
+    ]
+}

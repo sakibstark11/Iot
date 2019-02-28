@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="">
+    <title>Lion app</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
+
+  </head>
+
+  <body>
+     <header>
+       <div class="content">
+         <div class="title">
+           <img src="img/lion-face_1f981.png" alt="LION">
+         </div>
+         <div id="pages">
+              <div class="main-pages">
+                  <button class="button3" onclick="location.href='/';">Homepage</button>
+                  <div class="dropdown">
+                   <button class="button3">Something</button>
+                   <div class="drop1">
+                      <a href="">Something 1</a>
+                      <a href="">Something 2</a>
+                      <a href="">Something 3</a>
+                   </div>
+                  </div>
+                  <div class="dropdown">
+                   <button class="button3">Something</button>
+                   <div class="drop1">
+                     <a href="">Something 1</a>
+                     <a href="">Something 2</a>
+                   </div>
+                 </div>
+                 <div class="dropdown">
+                  <button class="button3">Settings</button>
+                </div>
+              </div>
+         </div>
+        </div>
+     </header>
+
+     <section id="lights">
+       <div class="content">
+        <div class="card">
+                <h1>Light 1</h1>
+                <div id="light1">
+                     <form method="POST" action="/lights1">
+                       <div id="slider" class="slidecontainer">OFF
+                         <input name="range" type="range" min="0" max="1" value="0" class="slider" id="myRange">ON
+                       </div>
+                       Threshold:<br>
+                       <div id="slider2" class="slidecontainer2">
+                         <input name="threshold" type="range" min="1" max="10" value="5" class="slider" id="myRange">
+                       </div><br>
+                       Sensitivity:<br>
+                       <div id="slider2" class="slidecontainer2">
+                         <input name="sensitivity" type="range" min="1" max="10" value="5" class="slider" id="myRange">
+                       </div><br>
+                       <input type="submit" class="button1">
+                     </form>
+                </div>
+                <div style="margin: 100px 0;">
+                </div>
+              </div>
+
+              <div class="card">
+                      <h1>Light 2</h1>
+                      <div id="light2">
+                        <form method="POST" action="/lights2">
+                          <div id="slider" class="slidecontainer">OFF
+                            <input name="range" type="range" min="0" max="1" value="0" class="slider" id="myRange">ON
+                          </div>
+                          Threshold:<br>
+                          <div id="slider2" class="slidecontainer2">
+                            <input name="threshold" type="range" min="1" max="10" value="5" class="slider" id="myRange">
+                          </div><br>
+                          Sensitivity:<br>
+                          <div id="slider2" class="slidecontainer2">
+                            <input name="sensitivity" type="range" min="1" max="10" value="5" class="slider" id="myRange">
+                          </div><br>
+                          <input type="submit" class="button1">
+                        </form>
+                   </div>
+                      </div>
+                      <div style="margin: 100px 0;">
+                      </div>
+                    </div>
+  </div>
+    </section>
+
+    <article id="about">
+      <div class="content">
+        <h2>About our app</h2>
+        <p>This website allows the user to controll the sensors in the house.</p>
+        <div class="box">
+          <img src="img/logo1.png" alt="">
+        </div>
+      </div>
+    </article>
+
+   <footer>
+     <p>Group lion app</p>
+   </footer>
+
+  </body>
+
+</html>

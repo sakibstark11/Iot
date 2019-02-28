@@ -1,0 +1,17 @@
+{
+  "name": "nodeweb",
+  "version": "1.0.0",
+  "description": "App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sergiu Baciu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-es6-template-engine": "^2.0.3",
+    "path": "^0.12.7"
+  }
+}

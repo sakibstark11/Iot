@@ -1,0 +1,16 @@
+{
+   "sensor_data": [
+      {
+         "sensor_id": "302CEM/lion/light1",
+         "sensor_sensitivity": "5",
+         "sensor_threshold": "5",
+         "sensor_state": "0"
+      },
+      {
+         "sensor_id": "302CEM/lion/light2",
+         "sensor_sensitivity": "5",
+         "sensor_threshold": "5",
+         "sensor_state": "0"
+      }
+   ]
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\sakib\\.platformio\\penv\\Scripts;C:\\Users\\sakib\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\PuTTY\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Users\\sakib\\AppData\\Local\\Programs\\Python\\Python36\\Scripts\\;C:\\Users\\sakib\\AppData\\Local\\Programs\\Python\\Python36\\;C:\\Users\\sakib\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\sakib\\AppData\\Roaming\\npm;C:\\Users\\sakib\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\sakib\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\site-packages;;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\PuTTY\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Users\\sakib\\AppData\\Local\\Programs\\Python\\Python36\\Scripts\\;C:\\Users\\sakib\\AppData\\Local\\Programs\\Python\\Python36\\;C:\\Users\\sakib\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\sakib\\AppData\\Roaming\\npm;C:\\Users\\sakib\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\sakib\\AppData\\Local\\Programs\\Python\\Python36\\Lib\\site-packages;",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
